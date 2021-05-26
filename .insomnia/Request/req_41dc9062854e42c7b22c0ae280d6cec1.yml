@@ -1,0 +1,30 @@
+_id: req_41dc9062854e42c7b22c0ae280d6cec1
+type: Request
+parentId: fld_e1a2081cfe17408daf365afa1dff14f0
+modified: 1621320891923
+created: 1621320803710
+url: http://localhost:1888/group/1/user
+name: Add group user
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"user_id": 1,
+    	"group_id": 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_82bf261bf3cd4c9ba5d3cff550ab58d0
+authentication: {}
+metaSortKey: -1621320803710
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

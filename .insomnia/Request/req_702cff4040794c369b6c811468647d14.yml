@@ -1,0 +1,31 @@
+_id: req_702cff4040794c369b6c811468647d14
+type: Request
+parentId: fld_894db1322e7f4836b1754aec9920b047
+modified: 1621320167232
+created: 1621311570408
+url: http://localhost:1888/topic/5/vote
+name: Add new topic vote
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"user_id": 1,
+    	"topic_id": 3,
+    	"is_for": true
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_84fbd50d7e75410288d83d477533cc9e
+authentication: {}
+metaSortKey: -1621310869258.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

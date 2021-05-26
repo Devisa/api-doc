@@ -1,0 +1,21 @@
+_id: req_688702789a99406796b9fb95fdb650d5
+type: Request
+parentId: fld_610aff1d3b4a4272a24a7c85bc7ab7f3
+modified: 1621323022437
+created: 1621323017157
+url: http://localhost:1888/item
+name: Get all items
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1621323017157
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

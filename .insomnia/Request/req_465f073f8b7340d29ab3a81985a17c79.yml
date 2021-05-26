@@ -1,0 +1,21 @@
+_id: req_465f073f8b7340d29ab3a81985a17c79
+type: Request
+parentId: fld_894db1322e7f4836b1754aec9920b047
+modified: 1621311256317
+created: 1621311244966
+url: http://localhost:1888/topic/3/vote
+name: Get all topic votes
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1621311244966
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_d478c4f56ab4497db043d729d8d04a37
+type: Request
+parentId: fld_2bed1981d898409e890f30cffd9f7ed3
+modified: 1621320208118
+created: 1620803564854
+url: http://localhost:1888/message
+name: Get all messages
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1620803564854
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

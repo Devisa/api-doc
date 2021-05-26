@@ -1,0 +1,30 @@
+_id: req_f901bb8a1c8041de9f5e1319be66179c
+type: Request
+parentId: fld_4eaab60e8d0a4d21832eceba0ca32020
+modified: 1621403863379
+created: 1621320299323
+url: http://localhost:1888/group
+name: New group
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"user_id": 3,
+    	"name": "The happygroup"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_0085439b70ab4d48b33c269cf706fbc4
+authentication: {}
+metaSortKey: -1621320299323
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_3c412b80ab704132ac7882fe3749a5ee
+type: Request
+parentId: fld_e074039a32944d148929636dc3c3ff7b
+modified: 1621396925308
+created: 1621394104270
+url: http://localhost:1888/user/gen
+name: Get new user
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1621394104270
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

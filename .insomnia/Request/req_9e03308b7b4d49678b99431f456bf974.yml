@@ -1,0 +1,21 @@
+_id: req_9e03308b7b4d49678b99431f456bf974
+type: Request
+parentId: fld_351fcf2c110f4742aab2223bf79a9cf6
+modified: 1621310480975
+created: 1621310473098
+url: http://localhost:1888/topic/2
+name: Get topic by id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1621310473099
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

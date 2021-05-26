@@ -1,0 +1,31 @@
+_id: req_1eb8914644e2403eb81e0670a414936a
+type: Request
+parentId: fld_24709bf3a4eb42e8a3f5e0fdd8a0271c
+modified: 1621322829575
+created: 1621321120791
+url: http://localhost:1888/message/group
+name: Send new group dm
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"sender_id": 1,
+    	"group_id": 3,
+    	"content": "This is an example message"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_fa9767fba89e4fb681113063c9bd723a
+authentication: {}
+metaSortKey: -1620773359235
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

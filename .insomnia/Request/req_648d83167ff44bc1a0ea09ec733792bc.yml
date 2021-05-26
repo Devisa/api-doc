@@ -1,0 +1,21 @@
+_id: req_648d83167ff44bc1a0ea09ec733792bc
+type: Request
+parentId: fld_b731fb8f763d4d7e8db330eae2e88db8
+modified: 1621323070247
+created: 1621323066422
+url: http://localhost:1888/channel
+name: Get all channels
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1621323066422
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

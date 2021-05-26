@@ -1,0 +1,31 @@
+_id: req_8fe5c4227b3848ba861f77f2a16bcb6e
+type: Request
+parentId: fld_0b08a42ac23d4ea8a60b3d5a3704f16e
+modified: 1621322883130
+created: 1621322863873
+url: http://localhost:1888/message/user
+name: Send new user dm
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"sender_id": 1,
+    	"recipient_id": 1,
+    	"content": "This is an example message"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_fa9767fba89e4fb681113063c9bd723a
+authentication: {}
+metaSortKey: -1620803489776
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

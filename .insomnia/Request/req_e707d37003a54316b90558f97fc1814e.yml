@@ -1,0 +1,21 @@
+_id: req_e707d37003a54316b90558f97fc1814e
+type: Request
+parentId: fld_e074039a32944d148929636dc3c3ff7b
+modified: 1621396934390
+created: 1621393022391
+url: http://localhost:1888/user/gen
+name: Insert new random user
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1621393022391
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_b2a9b96889684df28022daa9b908fd61
+type: Request
+parentId: fld_b9d35d8642994228b396bc7a2671488e
+modified: 1620803616919
+created: 1620803551877
+url: http://localhost:1888/message/topic
+name: Get all topic direct messages
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1620803599740
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_5bfd696fcac743609e69aa8d4ed7909c
+type: Request
+parentId: fld_cb52a11a50744f2ea5c4e5c7701bf2b5
+modified: 1621312070991
+created: 1621312066255
+url: http://localhost:1888/topic/category
+name: Get all topic categories
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1621312066255
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

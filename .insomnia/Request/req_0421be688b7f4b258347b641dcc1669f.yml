@@ -1,0 +1,30 @@
+_id: req_0421be688b7f4b258347b641dcc1669f
+type: Request
+parentId: fld_b88bb62a5d7c4c0d9bc94fcddb4b63e7
+modified: 1621314995307
+created: 1621312087455
+url: http://localhost:1888/topic/3/category?user_id=1
+name: Add new topic category
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"user_id": 1,
+    	"name": "Software Engineering"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_82545e258e914eedb2a985b4dd01d0b0
+authentication: {}
+metaSortKey: -1621312087455
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

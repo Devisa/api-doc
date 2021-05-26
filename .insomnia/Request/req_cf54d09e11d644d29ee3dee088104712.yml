@@ -1,0 +1,21 @@
+_id: req_cf54d09e11d644d29ee3dee088104712
+type: Request
+parentId: fld_24709bf3a4eb42e8a3f5e0fdd8a0271c
+modified: 1620803530372
+created: 1620773359185
+url: http://localhost:1888/message/group
+name: Get all group direct messages
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1620773359185
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

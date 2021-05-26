@@ -1,0 +1,30 @@
+_id: req_9fac6fa1affe4ce2968117c5ccf6893f
+type: Request
+parentId: fld_b3c5477d7e224d238ff4de5c7cdf3c6d
+modified: 1621388334717
+created: 1620803683656
+url: http://localhost:1888/topic
+name: Create new topic
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "tired of building crud routes",
+    	"description": "something  "
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_9958d42bee664596a53dfd8c090aefdf
+authentication: {}
+metaSortKey: -1620803683656
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

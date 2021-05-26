@@ -1,0 +1,21 @@
+_id: req_d76797ea01a349de89db89b72ff1a5fe
+type: Request
+parentId: fld_351fcf2c110f4742aab2223bf79a9cf6
+modified: 1621310499106
+created: 1621310493551
+url: http://localhost:1888/topic/2
+name: Delete topic by id
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1621310493551
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

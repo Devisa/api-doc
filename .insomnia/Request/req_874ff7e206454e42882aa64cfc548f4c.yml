@@ -1,0 +1,21 @@
+_id: req_874ff7e206454e42882aa64cfc548f4c
+type: Request
+parentId: fld_9778d46fdf984168ae5ee1319d56011c
+modified: 1621323098295
+created: 1621323092005
+url: http://localhost:1888/action
+name: Get all actions
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1621323092006
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_564aab74deb44a2e9ba93b3650bba9ef
+type: Request
+parentId: fld_ef026e4b60e940e0a07887be9a549806
+modified: 1621392989397
+created: 1621323006228
+url: http://localhost:1888/user
+name: Get all users
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1621323006228
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

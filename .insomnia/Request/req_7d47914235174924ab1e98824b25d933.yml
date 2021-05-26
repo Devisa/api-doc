@@ -1,0 +1,21 @@
+_id: req_7d47914235174924ab1e98824b25d933
+type: Request
+parentId: fld_048d4a2704d846cdb8547fd4fe59ea02
+modified: 1621393451162
+created: 1621393356855
+url: http://localhost:1888/user/profile
+name: Get all profiles
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1621393356855
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_4ab78f27d9f842619ade51ec848b1dbb
+type: Request
+parentId: fld_c3b7677c2fac48169a3f7d643ae579cb
+modified: 1621323115932
+created: 1621323112022
+url: http://localhost:1888/field
+name: Get all fields
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1621323112022
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

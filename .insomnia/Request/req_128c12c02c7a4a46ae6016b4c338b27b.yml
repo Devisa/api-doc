@@ -1,0 +1,21 @@
+_id: req_128c12c02c7a4a46ae6016b4c338b27b
+type: Request
+parentId: fld_d95b7571ec2e443693c80b2ccdd2effd
+modified: 1621396961945
+created: 1621396954856
+url: http://localhost:1888/user/gen/10
+name: Gen 10 new users
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1621396954856
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

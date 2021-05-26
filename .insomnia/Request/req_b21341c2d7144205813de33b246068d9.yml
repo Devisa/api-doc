@@ -1,0 +1,31 @@
+_id: req_b21341c2d7144205813de33b246068d9
+type: Request
+parentId: fld_b9d35d8642994228b396bc7a2671488e
+modified: 1621322856704
+created: 1620803611927
+url: http://localhost:1888/message/topic
+name: Send new topic dm
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"sender_id": 1,
+    	"topic_id": 3,
+    	"content": "This is an example message"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_fa9767fba89e4fb681113063c9bd723a
+authentication: {}
+metaSortKey: -1620803599790
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_e6f0f49235ff4b5596a689f7ca011bf2
+type: Request
+parentId: fld_8f499a22acc74a6bb83dfce38a62479e
+modified: 1621323043615
+created: 1621323039679
+url: http://localhost:1888/post
+name: Get all posts
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1621323039679
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

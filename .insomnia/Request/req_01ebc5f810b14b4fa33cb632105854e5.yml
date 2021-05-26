@@ -1,0 +1,21 @@
+_id: req_01ebc5f810b14b4fa33cb632105854e5
+type: Request
+parentId: fld_d476e642e60f401dba47a75f6f9a3d23
+modified: 1621320625998
+created: 1621320619691
+url: http://localhost:1888/group/1
+name: Delete group by id
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1621320619691
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

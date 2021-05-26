@@ -1,0 +1,21 @@
+_id: req_11187529677a4625926f85cb83a49d0b
+type: Request
+parentId: fld_2ce3e236603f42b291e9fecd40070970
+modified: 1621404412426
+created: 1621404340224
+url: http://localhost:1888/rt/
+name: Chat route
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1621404340224
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

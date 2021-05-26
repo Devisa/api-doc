@@ -1,0 +1,21 @@
+_id: req_05730a3670f54f55a731159808d5122c
+type: Request
+parentId: fld_fc43cb8f6fab49489d4e9f9e29c1a550
+modified: 1621323032762
+created: 1621323029301
+url: http://localhost:1888/book
+name: Get all books
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1621323029301
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

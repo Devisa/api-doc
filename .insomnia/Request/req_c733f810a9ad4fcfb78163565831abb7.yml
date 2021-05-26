@@ -1,0 +1,31 @@
+_id: req_c733f810a9ad4fcfb78163565831abb7
+type: Request
+parentId: fld_610aff1d3b4a4272a24a7c85bc7ab7f3
+modified: 1621403726816
+created: 1621403701737
+url: http://localhost:1888/item
+name: New item
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"user_id": 1,
+    	"name": "running",
+    	"description": "going outside for a run"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_d7ba26797bed4357a2d9e36cc353b031
+authentication: {}
+metaSortKey: -1621403701737
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

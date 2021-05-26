@@ -1,0 +1,21 @@
+_id: req_0db4d93cb9df45d9b7c31f16ef34f25c
+type: Request
+parentId: fld_e1a2081cfe17408daf365afa1dff14f0
+modified: 1621320793470
+created: 1621320788058
+url: http://localhost:1888/group/1/user
+name: Get group users
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1621320788142
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

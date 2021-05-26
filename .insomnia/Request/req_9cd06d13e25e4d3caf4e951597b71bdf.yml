@@ -1,0 +1,31 @@
+_id: req_9cd06d13e25e4d3caf4e951597b71bdf
+type: Request
+parentId: fld_d1022591582f402abef98e05e660942f
+modified: 1621403791382
+created: 1621403756352
+url: http://localhost:1888/record
+name: New record
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"user_id": 2,
+    	"name": "health",
+    	"description": "living well"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_e0835f57c9b34c2ebfaeff1f36b7b0d4
+authentication: {}
+metaSortKey: -1621403756352
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

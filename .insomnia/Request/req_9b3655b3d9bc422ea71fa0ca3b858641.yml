@@ -1,0 +1,21 @@
+_id: req_9b3655b3d9bc422ea71fa0ca3b858641
+type: Request
+parentId: fld_493db794b7fe46d9829148eac33c1c8e
+modified: 1621402679641
+created: 1621401675086
+url: http://localhost:1888/rt/ws
+name: Get sse test
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1621401675124
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

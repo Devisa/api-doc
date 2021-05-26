@@ -1,0 +1,21 @@
+_id: req_31e52bd65cf84834af28d862ffe6d980
+type: Request
+parentId: fld_daeac899be3349c2b546678e6f11e554
+modified: 1621403818628
+created: 1621403812272
+url: http://localhost:1888/record/1
+name: Get record by id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1621403812272
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
